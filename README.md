@@ -31,8 +31,7 @@ To create an interactive digital diary that:
 ### 🏠 1. Home Page - "My Two Homes"
 ![homepage](https://github.com/user-attachments/assets/c3f08e81-e201-4d35-a653-a8fd7cfcb5c1)
 ![6174652303260977922](https://github.com/user-attachments/assets/2e215103-afcf-45aa-aefa-aa9809b12018)
-![6174652303260977923](https://github.com/user-attachments/assets/30fdab20-0e0b-49c2-93a8-dbc87faa537e)
-![6174652303260977924](https://github.com/user-attachments/assets/041e2b2c-4df6-4aa8-9761-e0a2d4e90e6d)
+
 
 
 *Purpose:* Presents both my worlds - Taraz, where my childhood remains, and Seoul, where I'm becoming an adult. Shows quick statistics and access to all sections.
@@ -89,8 +88,6 @@ To create an interactive digital diary that:
 
 ---
 
-## 🛠️ Technical Implementation
-
 ## 🛠️ Technical Details
 - **Built with:** Python, Streamlit, Pandas
 -**Built witCSV and JSON files
@@ -102,23 +99,23 @@ To create an interactive digital diary that:
   
 
 ### Project Structure
+```text
 my-two-home-project/
-├── app.py # Main application
-├── requirements.txt # Python dependencies
-├── README.md # This documentation
-├── LICENSE # MIT License
-├── data/ # All data files
-│ ├── dishes.csv # Food database
-│ ├── memories.json # Memory entries
-│ └── words.csv # Vocabulary
-├── images/ # All photos
-│ ├── baursak.jpg
-│ ├── beshbarmak.jpg
-│ ├── kimchi.jpg
-│ └── ...
-└── styles/ # Custom styling
----
-
+├── app.py                    # Main application
+├── requirements.txt          # Python dependencies
+├── README.md                 # This documentation
+├── LICENSE                   # MIT License
+├── data/                    # All data files
+│   ├── dishes.csv           # Food database
+│   ├── memories.json        # Memory entries
+│   └── words.csv            # Vocabulary
+├── images/                  # All photos
+│   ├── baursak.jpg
+│   ├── beshbarmak.jpg
+│   ├── kimchi.jpg
+│   └── ...
+└── styles/                  # Custom styling
+```
 
 ## 🚀 How to Run Locally
 
@@ -153,14 +150,16 @@ Current: SeoulTech University, Computer Science
 Years Abroad: 2022-Present
 Status: Homesick but growing, nostalgic but hopeful
 Contact: 01044577127
-GitHub: @samg050213sh
+GitHub: [@samg050213sh](https://github.com/samg050213sh)  
 Email: [samg050213@gmail.com]
 Live App: https://mytwohomeshynaiym.streamlit.app/
+
 Personal Note:
 If you're also living between cultures, know that you're not alone. Our hearts can hold multiple homes, multiple languages, multiple versions of ourselves. This project is my proof.
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Made with love, homesickness, and hope.
+---
+*Made with love, homesickness, and hope.*
 
