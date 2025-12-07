@@ -142,6 +142,13 @@ streamlit run app.py
 - Click "Deploy"
 
 ---
+
+## 🎥 Personal Video Message
+```Markdown
+[My Journey Video](https://youtu.be/WoYOpa6vjxQ))
+```
+*Click above to watch my personal reflection on living between two cultures.*
+
 ## 👥 About Me
 
 - **Student:** Amanaliyeva Shynaiym
