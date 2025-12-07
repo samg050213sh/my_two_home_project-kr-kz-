@@ -144,9 +144,9 @@ streamlit run app.py
 ---
 
 ## 🎥 Personal Video Message
-```Markdown
-[My Journey Video](https://youtu.be/WoYOpa6vjxQ))
-```
+
+  [My Journey Video](https://youtu.be/WoYOpa6vjxQ)
+
 *Click above to watch my personal reflection on living between two cultures.*
 
 ## 👥 About Me
