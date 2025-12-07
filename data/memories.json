@@ -1,0 +1,103 @@
+{
+  "memories": [
+    {
+      "id": 1,
+      "title": "Last Evening in Taraz",
+      "date": "2022-09-10",
+      "location": "Taraz, Kazakhstan",
+      "country": "Kazakhstan",
+      "image_path": "images/last_evening.jpg",
+      "story": "Sitting on the balcony of our apartment in Taraz, watching the sunset over the neighborhood. My mom cooked all my favorite dishes. My dad was silent, just holding my hand. Packed two suitcases - one with clothes, one with kurt, and a photo album.",
+      "emotion": "Nostalgia",
+      "tags": ["family", "departure", "last day"]
+    },
+    {
+      "id": 2,
+      "title": "First Snow in Seoul",
+      "date": "2022-12-15",
+      "location": "Seoul, Korea",
+      "country": "Korea",
+      "image_path": "images/first_snow.jpg",
+      "story": "First snow in Korea reminded me of Taraz winters, but here snow melts faster. Stood on dorm balcony thinking that in Taraz it's already -20°C, here it's only -5°C. Called my parents, and we talked for a full four hours.",
+      "emotion": "Mixed",
+      "tags": ["winter", "weather", "comparison"]
+    },
+    {
+      "id": 3,
+      "title": "First Korean Class",
+      "date": "2022-09-13",
+      "location": "Shinhan University, Uijeongbu",
+      "country": "Korea",
+      "image_path": "images/first_class.jpg",
+      "story": "First day of Korean language class. Everyone knew some Korean except me. Teacher said 'annyeonghaseyo' and even though I knew what to say, I couldn’t respond with anything. Felt so lost.",
+      "emotion": "Confusion",
+      "tags": ["language", "university", "beginning"]
+    },
+    {
+      "id": 4,
+      "title": "Cooking Quyrdak for Korean Friends",
+      "date": "2023-01-11",
+      "location": "Shinhan University, Uijeongbu",
+      "country": "Korea",
+      "image_path": "images/quyrdak_cook.jpg",
+      "story": "My friends from Kazakhstan and I prepared one of Kazakhstan’s national dishes, Quyrdak, for an international food competition. I even asked my mom for the proper recipe to make sure it turned out delicious — but honestly, fried beef with potatoes, onions, and liver just can’t taste bad. Felt proud sharing my culture.",
+      "emotion": "Pride",
+      "tags": ["food", "friends", "culture"]
+    },
+    {
+      "id": 5,
+      "title": "Finding Kurt in Seoul",
+      "date": "2023-02-13",
+      "location": "Dongdaemun, Seoul",
+      "country": "Korea",
+      "image_path": "images/kurt_seoul.jpg",
+      "story": "Found kurts labeled 'from Kazakhstan' in Dongdaemun. Bought them immediately - they were from Uzbekistan, not Kazakhstan, but still tasted like home. Shared with Korean friends, they said it's very salty.",
+      "emotion": "Happiness",
+      "tags": ["food", "discovery", "connection"]
+    },
+    {
+        "id": 6,
+        "title": "First TOPIK Exam",
+        "date": "2023-04-24",
+        "location": "Shinhan University, Uijeongbu",
+        "country": "Korea",
+        "image_path": "images/exam.jpg",
+        "story": "My first Korean proficiency exam. Hands were shaking, forgot everything. But when I saw questions about daily life, realized I actually understand this language now.",
+        "emotion": "Hope",
+        "tags": ["exam", "language", "achievement"]
+    },
+    {
+      "id": 7,
+      "title": "SeoulTech Acceptance Letter",
+      "date": "2024-01-20",
+      "location": "My Dormitory, Uijeongbu",
+      "country": "Korea",
+      "image_path": "images/seoul_tech.jpg",
+      "story": "Received acceptance email from SeoulTech! Jumped and screamed in my room. Called parents in Taraz immediately. Got scholarship too!",
+      "emotion": "Joy",
+      "tags": ["achievement", "university", "scholarship"]
+    },
+    {
+      "id": 8,
+      "title": "First Day at SeoulTech",
+      "date": "2024-03-01",
+      "location": "Seoul National University of Science and Technology",
+      "country": "Korea",
+      "image_path": "images/universitylive.jpg",
+      "story": "First day at my dream university. Proud to wear SeoulTech student ID. Excited but nervous about computer science courses in Korean.",
+      "emotion": "Mixed",
+      "tags": ["university", "computer science", "new beginning"]
+    },
+    {
+        "id": 9,
+        "title": "University Festival Performance",
+        "date": "2025-09-16",
+        "location": "SeoulTech University Festival",
+        "country": "Korea",
+        "image_path": "images/festival.jpg",
+        "story": "Joined the dance club right after entering SeoulTech. Practices were exhausting - 3 hours daily after classes, sore muscles, memorizing complex choreography. But on stage during the university festival, everything changed. Lights, music, cheering crowd. For those 5 minutes, I wasn't a foreign student struggling with Korean - I was just a dancer. The happiest moment of my semester!",
+        "emotion": "Accomplishment",
+        "tags": ["dance", "performance", "festival", "club", "happiness"]
+    }
+  ]
+}
